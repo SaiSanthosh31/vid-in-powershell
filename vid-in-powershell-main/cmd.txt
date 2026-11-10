@@ -1,0 +1,5 @@
+#For width, do
+$Host.UI.RawUI.WindowSize.Width
+
+python vid_in_ps.py -f "miku.mp4" -w {your_window_width} --audio --color
+        
