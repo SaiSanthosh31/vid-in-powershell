@@ -1,7 +1,6 @@
 # Video to ASCII Art Converter with Audio Support
 
 ![GitHub stars](https://img.shields.io/github/stars/SaiSanthosh31/vid-in-powershell?style=flat)
-![License](https://img.shields.io/github/license/SaiSanthosh31/vid-in-powershell)
 
 A **stand‑alone** Python script that converts video files (or webcam input) into ASCII art, optionally synchronising audio playback.  The entire implementation is bundled in a single file (`vid_in_ps.py`) so it can be dropped into any directory and run without a complex build system.
 
